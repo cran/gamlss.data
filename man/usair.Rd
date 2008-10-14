@@ -18,8 +18,7 @@ Sokal and Rohlf (1981).
     \item{x6}{a numeric vector: average number of days rainfall per year}
   }
 }
-\details{
-}
+
 \source{
  Hand et al. (1994) data set 26, USAIR.DAT, originally from 
  Sokal and Rohlf (1981)
