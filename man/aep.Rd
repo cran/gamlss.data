@@ -27,7 +27,7 @@ days (noinap) out of the total number of days spent in hospital (los), with bino
 provided a better fit to the data. They modelled both the mean and
 the dispersion of the beta binomial distribution (BB) as functions
 of explanatory variables  }
-\source{}
+\source{ Gange, S. J. Munoz, A.  Saez, M. and  Alonso, J. (1996)}
 \references{
  Gange, S. J. Munoz, A.  Saez, M. and  Alonso, J. (1996) Use of the beta-binomial distribution to model
         the effect of policy changes on appropriateness of hospital stays. \emph{Appl. Statist}, \bold{45}, 371--382

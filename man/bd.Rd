@@ -20,9 +20,7 @@ circumference of Dutch boys.
     \item{age}{age in years}
   }
 }
-\details{
 
-}
 \source{ The data were kindly given by professor Stef. van Buuren. }
 \references{ 
 Fredriks, A.M. van Buuren, S. Burgmeijer, R.J.F. Meulmeester, J.F. Beuker, R.J. Brugman, E.

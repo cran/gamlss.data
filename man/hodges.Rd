@@ -61,9 +61,7 @@ State level:  expenses per admission, region.
     a factor with levels \code{MA} \code{MT} \code{NC} \code{NE} \code{PA} \code{SA} \code{SC}}
   }
 }
-\details{
- 
-}
+
 \source{
    \url{http://www.biostat.umn.edu/~hodges/}}
 \references{
