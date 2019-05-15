@@ -1,7 +1,8 @@
-df76da18ee42fd8f83aeb1801a4572fa *DESCRIPTION
+996fd6ba5d550b07c39a9e198bade875 *DESCRIPTION
 817519652439f2feccf94ac2168a2911 *NAMESPACE
 9eaf7fed01d2868274083e9b1f6af1b2 *R/computer.R
 fc5f2e3ccb8060b65d347381f48fca78 *data/CD4.rda
+69a32de863140415bb9074b268d4bde0 *data/InfMort.RData
 893966983c02d53252cfaf7f4f181782 *data/LGAclaims.rda
 154dcbed15e83f7055501e2dd87fe7b9 *data/Leukemia.RData
 e1f4320148e232fa6d3769761f1f512f *data/Mums.rda
@@ -17,7 +18,7 @@ d6a517241e83d803dbb3e9e5c060b49b *data/aircond.rda
 0361dc0c929c18f86e99ef918b8f0226 *data/cable.RData
 22c7bec53cea9de9dd7fe6019144eac3 *data/computer.rda
 3708c38ad6508a3db5fe70126b72495b *data/cysts.RData
-d36ada0aa68ae56157c98f6a6196fcb7 *data/datalist
+e0606dc10c2daeba9d45c982fc3e139d *data/datalist
 e1300e4c5c43cc808bcab2c9deeab590 *data/db.rda
 551d48c6c1c622a4d006503dc75a796c *data/dbbmi.rda
 cd65f1ff8a76ab1dd5100b8aaf4d4ed1 *data/dbhh.RData
@@ -54,6 +55,7 @@ b77394246efe900dd4cc8ee6dac7d8c0 *data/tse.rda
 24d8b5f46cfd082a0f852ea7ca75df49 *data/usair.rda
 721004ab76dfc93cee0f5639c5103921 *data/vas5.rda
 1e0ea95f8d4847379c0c32c4ac95a527 *man/CD4.Rd
+5c12d3dc7ab22fef9e22e17db807eb78 *man/InfMort.Rd
 f64548724e7fc3d9b389172d31fb450a *man/LGAclaims.Rd
 047eff75d291c3d3ac535391062d0cdd *man/Mums.Rd
 8b03eac5c59ace5111711b6b0eb0572c *man/VictimsOfCrime.Rd
