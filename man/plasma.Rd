@@ -34,7 +34,7 @@ A cross-sectional study to investigate the relationship between personal charact
 \references{
 
 Harrell, F. E. (2002), Plasma Retinol and Beta-Carotene Dataset,
-\url{http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/plasma.html}
+\url{https://hbiostat.org/data/repo/plasma.html}
 }
 \examples{
 data(plasma)

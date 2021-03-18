@@ -1,16 +1,17 @@
 Package: gamlss.data
-Description: Data used as examples to demonstrate GAMLSS models.
-Title: GAMLSS Data
+Description: Data used as examples in the current two books on Generalised Additive Models for Location Scale and Shape introduced by Rigby and Stasinopoulos (2005), <doi:10.1111/j.1467-9876.2005.00510.x>.
+Title: Data for Generalised Additive Models for Location Scale and
+        Shape
 LazyData: yes
-Version: 5.1-4
-Date: 2019-05-14
-Depends: R (>= 2.10)
+Version: 6.0-1
+Date: 2021-03-18
+Depends: R (>= 3.5.0)
 Author: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>, Bob
         Rigby, Fernanda De Bastiani 
 Maintainer: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>
 License: GPL-2 | GPL-3
-URL: http://www.gamlss.org/
+URL: https://www.gamlss.com/
 NeedsCompilation: no
-Packaged: 2019-05-14 09:00:19 UTC; MikisStasinopoulos
+Packaged: 2021-03-18 13:14:54 UTC; dimitriosstasinopoulos
 Repository: CRAN
-Date/Publication: 2019-05-15 09:40:07 UTC
+Date/Publication: 2021-03-18 13:40:02 UTC

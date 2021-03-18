@@ -7,7 +7,7 @@ Data from film revenues from the 1990s'.
 }
 \usage{data(film90)}
 \format{
-  A data frame with 4031 observations on the following 14 variables.
+  A data frame with 4031 observations on the following 4 variables.
   \describe{
  %   \item{\code{time}}{Date of release of the film}
  %   \item{\code{year}}{the year of release of the film}
