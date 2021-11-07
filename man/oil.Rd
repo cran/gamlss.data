@@ -25,9 +25,9 @@ The Oil data: Using model selection to discover what affects the price of oil.  
 }
 
 \source{
-The dataset was downloaaded from \url{https://www.quandl.com/}.    
+The dataset was downloaaded from \url{https://data.nasdaq.com/}.    
 }
-
+ 
 \examples{
 data(oil)
 plot(OILPRICE~SPX_log, data=oil)
