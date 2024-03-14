@@ -1,7 +1,8 @@
-1f002b9e7cf38ba4112fd3769c5a368c *DESCRIPTION
+8dc096ad093671579ddd1ce7733ae4c4 *DESCRIPTION
 817519652439f2feccf94ac2168a2911 *NAMESPACE
 9eaf7fed01d2868274083e9b1f6af1b2 *R/computer.R
-ea52b549959dd55fde16b796abddd0a9 *build/partial.rdb
+5ea5dba6496ef61e62b0861239b71ec2 *README.md
+8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
 5bf4bf0d955a356c1f8b68476bfb55ce *data/CD4.rda
 8fed5cbaee220494091db74558bb2f52 *data/InfMort.RData
 c55db94ea4a7a5d908ccf42d38dd7f00 *data/LGAclaims.rda
@@ -53,11 +54,12 @@ bc2a0f71bddbe417c622511a7e873f7b *data/stylo.rda
 35df6e498ea1073055916267c984b096 *data/tidal.RData
 0701ccf95cbe3cd4ddc6909865d786da *data/trd.RData
 91355170c32367a90035b8121883059c *data/tse.rda
+cd27304486bd6bf850e6f6866ad19478 *data/ultra.RData
 0a6186c16cbddbef563a99334d687a45 *data/usair.rda
 e649d62c560c70dbbc0fa06da97d1add *data/vas5.rda
 1e0ea95f8d4847379c0c32c4ac95a527 *man/CD4.Rd
 82df76ac1249881599448b047435fc64 *man/InfMort.Rd
-f64548724e7fc3d9b389172d31fb450a *man/LGAclaims.Rd
+0ab54cdbd9d6e6997e5f73da12d82b0e *man/LGAclaims.Rd
 047eff75d291c3d3ac535391062d0cdd *man/Mums.Rd
 c4d6c88139dff22af62cef49fdac2639 *man/VictimsOfCrime.Rd
 ab0bb35444b218cf68e12d1b0bb48bd9 *man/abdom.Rd
@@ -67,7 +69,7 @@ b8c685785b2d98422eedc92dbdce1017 *man/aep.Rd
 ce78ffa67d7a9fd8f40c519c11e558b2 *man/aircond.Rd
 cec2cfeb2ce7ed0c000d776358e6c580 *man/alveolar.Rd
 1a63ae0e421d2e56916a5323ca0eaa50 *man/bd.Rd
-9391ac6093cd3133243c3380b458f291 *man/brownfat.Rd
+394c6061386a52f4f998d9dd27c53cf1 *man/brownfat.Rd
 ad1c17c5403b7765dccbcf5c68a866b8 *man/bush2000.Rd
 47c5f406c49688808869b799407deeb5 *man/cable.Rd
 8b8e63a5a833eaffa192e3685c5b40d8 *man/computer.Rd
@@ -82,7 +84,7 @@ f80ae36485e74174fbdfe4dfd48a293b *man/eu15.Rd
 91f698030714f7c338a315669aa657c0 *man/glasses.Rd
 799da96e429666f7505ae2f90c4a8146 *man/grip.Rd
 135e51e22d29bbc50d92c41e27d8e0bd *man/hodges.Rd
-f154196e02e907b5919601f596edf910 *man/leukemia.Rd
+69480c14ed4eec54d2124c3f6ee4c39e *man/leukemia.Rd
 def6238f9fc329f657bcf3578ecb0fc5 *man/lice.Rd
 1a0ee69ac857888382b40b382bb72b9c *man/lungFunction.Rd
 7c0dd2852b02b15e810225b967ae44f5 *man/margolin.Rd
@@ -103,5 +105,6 @@ c8c4550e973467c1c620a621bf3ef682 *man/stylo.Rd
 450afa401d0bc180fa8a2a4e548252ba *man/tidal.Rd
 acb582215209f7ac8de1bb5af021839c *man/trd.Rd
 0ece4e916f8f3606ce06ce9c6c2c0439 *man/tse.Rd
+445435225855a863c523000aead019be *man/ultra.Rd
 67a5110e8b48358f658fc5df694ed56f *man/usair.Rd
 56e73d39e230bf37a06919040b4015e3 *man/vas5.Rd
